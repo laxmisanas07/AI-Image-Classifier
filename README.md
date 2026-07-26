@@ -36,6 +36,12 @@ This model can be trained to classify:
 
 ---
 
+## Output
+
+### Real-time image prediction
+![Output 1](image.png)
+
+---
 ## 🛠️ Tech Used
 - Teachable Machine (Google)
 - TensorFlow.js (under the hood)
